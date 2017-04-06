@@ -96,4 +96,4 @@ if(SOMETHING IS TRUE) {
   # BY DEFAULT, DO EVERYTHING IN HERE
 }
 ```
-For practice writing conditional statements in functions, see [exercise-2](http://github.com/info201-s17/m7-functions/tree/master/exercise-2). Note, you'll need to be familiar with some of the concepts from [Chapter 8](https://info201-s17.github.io/book/introduction-to-vectors.html).
+For practice writing conditional statements in functions, see [exercise-2](http://github.com/info201-s17/m7-functions/tree/master/exercise-2). Note, you'll need to be familiar with some of the concepts from [module-7](https://github.com/INFO-201/m7-vectors).
